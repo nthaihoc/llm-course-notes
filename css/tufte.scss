@@ -10,9 +10,9 @@ nav_exclude: true
 /*****************************************************************************/
 
 // Imports to create final
-@import "../_sass/fonts";
-@import "../_sass/syntax-highlighting";
-@import "../_sass/settings";
+@use "../_sass/fonts" as *;
+@use "../_sass/syntax-highlighting" as *;
+@use "../_sass/settings" as *;
 
 /* Changes from original tufte.css
 
