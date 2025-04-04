@@ -61,7 +61,7 @@ body {
     padding-left: 12.5%;
     max-width: calc(12.5% + 1400px); // max-width of content box = 1400px
     margin: 0 auto;
-    font-family: settings.$body-font;
+    font-family: $body-font;
     background-color: $bg-color;
     color: $text-color;
     counter-reset: sidenote-counter;
