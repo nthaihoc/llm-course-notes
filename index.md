@@ -25,14 +25,14 @@ Không chỉ dừng lại ở việc cung cấp lý thuyết, mà khóa học c�
 + Toán học cơ bản: Hiểu về đại số tuyến tính, xác suất, thống kê và giải tích.
 + Kinh nghiệm làm việc với dữ liệu: Biết cách thu thập và tiền xử lý, lằm sạch dữ liệu văn bản. 
 
-## iv. Chủ đề ghi chú
+## iv. Chủ đề 
 
 | Lecture | Name | Description | Materials |
 | :-----: | :--: | :---------- | :-------: |
-|   01    |  Understand large language models  | (-) Important concepts in LLMs <br> (-) Applications and stages of building and using LLMs <br> (-) Transformer architecture and utilizing large datasets <br> (-) Building a LLMs | [**Notes**](chapter01/) | 
+|   01    |  Understand large language models  | (-) Important concepts in LLMs <br> (-) Applications and stages of building and using LLMs <br> (-) Transformer architecture and utilizing large datasets <br> (-) Building a LLMs | [**Link**](chapter01/) | 
 
 
-## v. Tài liệu tham khảo
+<br>
 
 
 
