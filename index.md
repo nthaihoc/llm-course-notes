@@ -6,7 +6,7 @@ title: Large Language Models (LLMs)
 ---
 
 ## i. Thông tin khóa học
-Mô hình ngôn ngữ lớn (Large Language Models - LLMs) đang và sẽ tiếp tục là chủ đề nóng bỏng và nhận được nhiều sự quan tâm của các nhà nghiên cứu và những công ty, tập đoàn lớn trên thế giới về lĩnh vực trí tuệ nhân tạo (Artificial - Intelligence - AI). Sau những sự thành công của OpenAI - khi cho ra mắt mô hình ChatGPT vào cuối năm 2022 và mới đây nhất là sự phát triển của DeepSeek, các mô hình LLMs gần như đã chứng tỏ được tiềm năng to lớn trong việc giải quyết các bài toán ngôn ngữ tự nhiên, từ trả lời câu hỏi, tạo nội dung đến hỗ trợ các ứng dụng phức tạp khác.
+Mô hình ngôn ngữ lớn (Large Language Models - LLMs) đang và sẽ tiếp tục là chủ đề nóng bỏng và nhận được nhiều sự quan tâm của các nhà nghiên cứu và những công ty, tập đoàn lớn trên thế giới về lĩnh vực trí tuệ nhân tạo (Artificial Intelligence - AI). Sau những sự thành công của OpenAI - khi cho ra mắt mô hình ChatGPT vào cuối năm 2022 và mới đây nhất là sự phát triển của DeepSeek, các mô hình LLMs gần như đã chứng tỏ được tiềm năng to lớn trong việc giải quyết các bài toán ngôn ngữ tự nhiên, từ trả lời câu hỏi, tạo nội dung đến hỗ trợ các ứng dụng phức tạp khác.
 
 Khóa học này được thiết kế dựa trên việc ghi chú lại những kiến thức quan trọng và nổi bật theo chủ đề của LLMs giúp bạn nắm vững được những kiến thức cơ bản cũng như các kỹ thuật tiên tiến trong việc triển khai và xây dựng các mô hình ngôn ngữ lớn từ đầu, tương tự như các mô hình nổi bật như GPT của OpenAI. 
 
